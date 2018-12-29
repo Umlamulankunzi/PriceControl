@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Price Watch</string>
+    <string name="image_info">Main app header image</string>
+    <string name="app_label">Enter Product Price </string>
+    <string name="item_hint">Product Name </string>
+    <string name="qty">Qty </string>
+    <string name="price_hint">Price</string>
+    <string name="ok_btn">Submit</string>
+    <string name="search">Search</string>
+    <string name="view_products">view products</string>
+    <string name="title_activity_view_products">viewProductsActivity</string>
+</resources>
