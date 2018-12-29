@@ -7,6 +7,6 @@
     <string name="price_hint">Price</string>
     <string name="ok_btn">Submit</string>
     <string name="search">Search</string>
-    <string name="view_products">view products</string>
-    <string name="title_activity_view_products">viewProductsActivity</string>
+    <string name="view_products">View Products</string>
+    <string name="shop">Shop</string>
 </resources>
